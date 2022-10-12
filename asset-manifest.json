@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/a11y-airline/static/js/main.10a73ddf.js",
+    "main.js": "/a11y-airline/static/js/main.b46f85bd.js",
     "static/js/787.aeccd723.chunk.js": "/a11y-airline/static/js/787.aeccd723.chunk.js",
     "index.html": "/a11y-airline/index.html",
-    "main.10a73ddf.js.map": "/a11y-airline/static/js/main.10a73ddf.js.map",
+    "main.b46f85bd.js.map": "/a11y-airline/static/js/main.b46f85bd.js.map",
     "787.aeccd723.chunk.js.map": "/a11y-airline/static/js/787.aeccd723.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.10a73ddf.js"
+    "static/js/main.b46f85bd.js"
   ]
 }
